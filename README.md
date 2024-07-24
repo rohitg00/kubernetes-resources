@@ -1,6 +1,6 @@
 # Kubernetes Resources
 
-A curated list of awesome Kubernetes resources and projects, inspired by the [awesome-kubernetes](https://github.com/rohitg00/awesome-kubernetes) repository by Rohit Ghumare. 🌟
+A curated list of awesome Kubernetes resources and projects, inspired by the [awesome-kubernetes](https://github.com/rohitg00/awesome-kubernetes) repository 🌟
 
 ## Contents
 - [Tutorials and Guides](#tutorials-and-guides)
